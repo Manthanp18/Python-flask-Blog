@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/coding thunder",
+    "prod_uri":"mysql://root:@localhost/coding thunder",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "utsav's Blog",
+    "tag_line": "A blogsite who never publish a blog\uD83E\uDD2A",
+    "gmail-user":"patelmanthan1806@gmail.com",
+    "gmail-password":"manthan@gmail",
+    "about_text": "20y/o,Nerd, Learning Python. like to use twitter generally",
+    "no_of_posts": 3,
+    "login_image":"my.png",
+    "admin_user":"manthan",
+    "admin_password": "manthan@123",
+    "upload_location":"C:\\Users\\Manthan\\PycharmProjects\\Flask-tut\\static"
+
+  }
+}
